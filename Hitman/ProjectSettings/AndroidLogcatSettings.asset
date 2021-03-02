@@ -1,0 +1,125 @@
+{
+    "m_SelectedDeviceId": "ss69uslffqso49by",
+    "m_SelectedPackage": {
+        "deviceId": "ss69uslffqso49by",
+        "name": "com.DefaultCompany.Hitman",
+        "processId": 27118,
+        "exited": true
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "ss69uslffqso49by",
+            "name": "com.miui.home",
+            "processId": 1726,
+            "exited": false
+        },
+        {
+            "deviceId": "ss69uslffqso49by",
+            "name": "com.DefaultCompany.Hitman",
+            "processId": 4386,
+            "exited": true
+        },
+        {
+            "deviceId": "ss69uslffqso49by",
+            "name": "com.DefaultCompany.Hitman",
+            "processId": 6012,
+            "exited": true
+        },
+        {
+            "deviceId": "ss69uslffqso49by",
+            "name": "com.DefaultCompany.Hitman",
+            "processId": 9148,
+            "exited": true
+        },
+        {
+            "deviceId": "ss69uslffqso49by",
+            "name": "com.DefaultCompany.Hitman",
+            "processId": 31140,
+            "exited": true
+        },
+        {
+            "deviceId": "ss69uslffqso49by",
+            "name": "com.DefaultCompany.Hitman",
+            "processId": 6996,
+            "exited": true
+        },
+        {
+            "deviceId": "ss69uslffqso49by",
+            "name": "com.unity3d.mobileremote",
+            "processId": 8626,
+            "exited": false
+        },
+        {
+            "deviceId": "ss69uslffqso49by",
+            "name": "com.DefaultCompany.Hitman",
+            "processId": 23053,
+            "exited": true
+        },
+        {
+            "deviceId": "ss69uslffqso49by",
+            "name": "com.DefaultCompany.Hitman",
+            "processId": 24525,
+            "exited": true
+        },
+        {
+            "deviceId": "ss69uslffqso49by",
+            "name": "com.DefaultCompany.Hitman",
+            "processId": 27118,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
